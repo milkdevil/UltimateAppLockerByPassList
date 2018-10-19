@@ -7,9 +7,9 @@ Please contribute and do point out errors or resources I have forgotten.
 
 `msbuild.exe pshell.xml`
 
-Requires admin: No
+Requires admin: No  
 Windows binary: Yes  
-Bypasses AppLocker Default rules: Yes  
+Bypasses AppLocker Default rules: Yes    
 
 Notes:
 
@@ -40,7 +40,7 @@ https://oddvar.moe/2017/12/21/harden-windows-with-applocker-based-on-case-study-
 
 `presentationhost.exe file:///x.x.x.x/bypass.xbap`
 
-Requires admin: No
+Requires admin: No  
 Windows binary: Yes  
 Bypasses AppLocker Default rules: Yes  
 
