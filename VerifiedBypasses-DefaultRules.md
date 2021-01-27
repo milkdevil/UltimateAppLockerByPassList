@@ -7,7 +7,7 @@ Please contribute and do point out errors or resources I have forgotten.
 
 `msbuild.exe pshell.xml`
 
-Requires admin: No
+Requires admin: No  
 Windows binary: Yes  
 Bypasses AppLocker Default rules: Yes  
 
